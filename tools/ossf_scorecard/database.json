@@ -155,11 +155,16 @@
             "score": 7,
             "date": "2023-07-10",
             "commit": "268229d67620d092ea4d64de5416f55997eadbaa"
+          },
+          {
+            "score": 6.7,
+            "date": "2023-08-07",
+            "commit": "268229d67620d092ea4d64de5416f55997eadbaa"
           }
         ],
         "current": {
-          "score": 6.7,
-          "date": "2023-08-07",
+          "score": 6.5,
+          "date": "2023-08-14",
           "commit": "268229d67620d092ea4d64de5416f55997eadbaa"
         }
       },
@@ -560,12 +565,17 @@
             "score": 8.1,
             "date": "2023-07-17",
             "commit": "ac01865f87c76b0da4b503ce8abbe990732cbf30"
+          },
+          {
+            "score": 6.4,
+            "date": "2023-07-31",
+            "commit": "625b2ab787271daa6946a7d88cb57cbbf9cf445c"
           }
         ],
         "current": {
-          "score": 6.4,
-          "date": "2023-07-31",
-          "commit": "625b2ab787271daa6946a7d88cb57cbbf9cf445c"
+          "score": 6.6,
+          "date": "2023-08-14",
+          "commit": "137f4d54c91d4f615ff73e780425c76086f81abe"
         }
       },
       "core-validate-commit": {
@@ -766,12 +776,17 @@
             "score": 5.7,
             "date": "2023-07-10",
             "commit": "1825a51d6cc751dff4020868da11325771504754"
+          },
+          {
+            "score": 5.6,
+            "date": "2023-07-17",
+            "commit": "1825a51d6cc751dff4020868da11325771504754"
           }
         ],
         "current": {
-          "score": 5.6,
-          "date": "2023-07-17",
-          "commit": "1825a51d6cc751dff4020868da11325771504754"
+          "score": 5.5,
+          "date": "2023-08-14",
+          "commit": "2e8bce3687c4f1369d5c1bb6adfbee6bb1bd2f51"
         }
       },
       "help": {
@@ -840,11 +855,16 @@
             "score": 5.2,
             "date": "2023-07-24",
             "commit": "0608cc214bff6701f81d0554791dda3f78fee3f0"
+          },
+          {
+            "score": 5.7,
+            "date": "2023-07-31",
+            "commit": "0608cc214bff6701f81d0554791dda3f78fee3f0"
           }
         ],
         "current": {
-          "score": 5.7,
-          "date": "2023-07-31",
+          "score": 5.6,
+          "date": "2023-08-14",
           "commit": "0608cc214bff6701f81d0554791dda3f78fee3f0"
         }
       },
