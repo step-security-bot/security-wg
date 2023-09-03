@@ -580,12 +580,17 @@
             "score": 6.4,
             "date": "2023-07-31",
             "commit": "625b2ab787271daa6946a7d88cb57cbbf9cf445c"
+          },
+          {
+            "score": 6.6,
+            "date": "2023-08-14",
+            "commit": "137f4d54c91d4f615ff73e780425c76086f81abe"
           }
         ],
         "current": {
-          "score": 6.6,
-          "date": "2023-08-14",
-          "commit": "137f4d54c91d4f615ff73e780425c76086f81abe"
+          "score": 8.6,
+          "date": "2023-09-02",
+          "commit": "3f12a1f8b6f44fec7ec7f0eebd326dfd45077e0a"
         }
       },
       "core-validate-commit": {
@@ -1026,12 +1031,17 @@
             "score": 8.6,
             "date": "2023-07-12T16:00:07Z",
             "commit": "0c093a33e8fa067680ce4a44169e058c5d30e983"
+          },
+          {
+            "score": 8.8,
+            "date": "2023-07-28T15:23:05Z",
+            "commit": "59dc6be097038ef61613d806c8593e290f280c95"
           }
         ],
         "current": {
-          "score": 8.8,
-          "date": "2023-07-28T15:23:05Z",
-          "commit": "59dc6be097038ef61613d806c8593e290f280c95"
+          "score": 8.9,
+          "date": "2023-08-29T18:42:37Z",
+          "commit": "b860793effe366712bfa357054d1a4d9020e0f24"
         }
       },
       "tap2junit": {
