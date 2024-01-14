@@ -334,12 +334,17 @@
             "score": 7.2,
             "date": "2023-12-16T20:41:04Z",
             "commit": "154afbed5bfbe80c1036f855eeac76991bd55708"
+          },
+          {
+            "score": 7.1,
+            "date": "2024-01-06T21:22:16Z",
+            "commit": "46bc0ffce6b92ceeb508d045824aeb004de6bd27"
           }
         ],
         "current": {
-          "score": 7.1,
-          "date": "2024-01-06T21:22:16Z",
-          "commit": "46bc0ffce6b92ceeb508d045824aeb004de6bd27"
+          "score": 7.4,
+          "date": "2024-01-12T16:11:14Z",
+          "commit": "c25878d370c6d96abb382d9ee10d1838da4ec29d"
         }
       },
       "diagnostics": {
@@ -1038,12 +1043,17 @@
             "score": 6.2,
             "date": "2023-10-02",
             "commit": "cd1b28855259254bb860fb71ed95f9b7636e65b4"
+          },
+          {
+            "score": 6.3,
+            "date": "2023-10-09",
+            "commit": "b8193a7840adc340c6c77d211919d86722dce326"
           }
         ],
         "current": {
-          "score": 6.3,
-          "date": "2023-10-09",
-          "commit": "b8193a7840adc340c6c77d211919d86722dce326"
+          "score": 6.4,
+          "date": "2024-01-08",
+          "commit": "44548b7226aa3d513f745834543f1342a6b79d10"
         }
       },
       "TSC": {
@@ -1191,12 +1201,17 @@
             "score": 5.5,
             "date": "2023-12-25",
             "commit": "78a7a517640d6e518c2a38092cf62c0cecb00180"
+          },
+          {
+            "score": 5.6,
+            "date": "2024-01-01",
+            "commit": "114be8a5af64aba22ae305613920b054327276a2"
           }
         ],
         "current": {
-          "score": 5.6,
-          "date": "2024-01-01",
-          "commit": "114be8a5af64aba22ae305613920b054327276a2"
+          "score": 5.8,
+          "date": "2024-01-08",
+          "commit": "f6bcc88e5332c46b953887c0419fa2a863ccccc5"
         }
       },
       "help": {
@@ -2632,11 +2647,16 @@
             "score": 6.1,
             "date": "2023-12-11",
             "commit": "d99a3f53df29dd7a98f27d04505d3e1ec28b3284"
+          },
+          {
+            "score": 5.8,
+            "date": "2023-12-25",
+            "commit": "d99a3f53df29dd7a98f27d04505d3e1ec28b3284"
           }
         ],
         "current": {
-          "score": 5.8,
-          "date": "2023-12-25",
+          "score": 5.7,
+          "date": "2024-01-08",
           "commit": "d99a3f53df29dd7a98f27d04505d3e1ec28b3284"
         }
       },
