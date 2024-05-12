@@ -464,12 +464,17 @@
             "score": 7.6,
             "date": "2024-04-26T22:33:57Z",
             "commit": "40ef9d541ed79470977f90eb445c291b95ab75a0"
+          },
+          {
+            "score": 7.5,
+            "date": "2024-05-04T22:57:07Z",
+            "commit": "44287af42b8aa01ff30f51806c382d88cbb3dfee"
           }
         ],
         "current": {
-          "score": 7.5,
-          "date": "2024-05-04T22:57:07Z",
-          "commit": "44287af42b8aa01ff30f51806c382d88cbb3dfee"
+          "score": 7.4,
+          "date": "2024-05-11T19:17:37Z",
+          "commit": "d78537b3dfb6a7ca1b2f0687e0fbfbd631cb5537"
         }
       },
       "diagnostics": {
@@ -1288,12 +1293,17 @@
             "score": 6.3,
             "date": "2024-02-12",
             "commit": "e5194c2bdda217b877fbd2b2cc504628ce9406ca"
+          },
+          {
+            "score": 6.4,
+            "date": "2024-03-04",
+            "commit": "12e6902b7a90c42edf60a1f4aa0ef9c19efdfddc"
           }
         ],
         "current": {
-          "score": 6.4,
-          "date": "2024-03-04",
-          "commit": "12e6902b7a90c42edf60a1f4aa0ef9c19efdfddc"
+          "score": 6.3,
+          "date": "2024-05-06",
+          "commit": "66069f3f680d669872787467dffa37a96cf4793e"
         }
       },
       "TSC": {
@@ -1476,11 +1486,16 @@
             "score": 5.3,
             "date": "2024-04-01",
             "commit": "35b762c78ae5beb7dbe0cacca41717ddb29a3484"
+          },
+          {
+            "score": 5.1,
+            "date": "2024-04-08",
+            "commit": "35b762c78ae5beb7dbe0cacca41717ddb29a3484"
           }
         ],
         "current": {
-          "score": 5.1,
-          "date": "2024-04-08",
+          "score": 5,
+          "date": "2024-05-06",
           "commit": "35b762c78ae5beb7dbe0cacca41717ddb29a3484"
         }
       },
@@ -1680,12 +1695,17 @@
             "score": 4.4,
             "date": "2024-04-15",
             "commit": "dbc37220131c15fb69c3b4378eed24a109b142b3"
+          },
+          {
+            "score": 5.1,
+            "date": "2024-04-22",
+            "commit": "dbc37220131c15fb69c3b4378eed24a109b142b3"
           }
         ],
         "current": {
-          "score": 5.1,
-          "date": "2024-04-22",
-          "commit": "dbc37220131c15fb69c3b4378eed24a109b142b3"
+          "score": 5.5,
+          "date": "2024-05-06",
+          "commit": "7670995b7a02c45a3ccdfaab24e269cd8470bd81"
         }
       },
       "llnode": {
@@ -2117,12 +2137,17 @@
             "score": 6.1,
             "date": "2024-04-08",
             "commit": "4d35ae5735fe64dd817366384936c6bf0309f6d2"
+          },
+          {
+            "score": 5.4,
+            "date": "2024-04-15",
+            "commit": "b7b0a432d5a5c30a1aa8492873c553b2fe20e4cb"
           }
         ],
         "current": {
-          "score": 5.4,
-          "date": "2024-04-15",
-          "commit": "b7b0a432d5a5c30a1aa8492873c553b2fe20e4cb"
+          "score": 5.5,
+          "date": "2024-05-06",
+          "commit": "2a2e2842a878f076ac603fa852bb91cbe2632a0e"
         }
       },
       "node-v8": {
@@ -2226,11 +2251,16 @@
             "score": 5.1,
             "date": "2024-04-08",
             "commit": "e82d577cdc34e19a65d919975b7ba35f2b9bc915"
+          },
+          {
+            "score": 5.2,
+            "date": "2024-04-22",
+            "commit": "e82d577cdc34e19a65d919975b7ba35f2b9bc915"
           }
         ],
         "current": {
-          "score": 5.2,
-          "date": "2024-04-22",
+          "score": 5.3,
+          "date": "2024-05-06",
           "commit": "e82d577cdc34e19a65d919975b7ba35f2b9bc915"
         }
       },
@@ -2413,11 +2443,16 @@
             "score": 5.2,
             "date": "2024-02-12",
             "commit": "d03a1f0d36af7cd1ffd8d2ce7fb622e788177f43"
+          },
+          {
+            "score": 4.8,
+            "date": "2024-04-29",
+            "commit": "d03a1f0d36af7cd1ffd8d2ce7fb622e788177f43"
           }
         ],
         "current": {
-          "score": 4.8,
-          "date": "2024-04-29",
+          "score": 4.7,
+          "date": "2024-05-06",
           "commit": "d03a1f0d36af7cd1ffd8d2ce7fb622e788177f43"
         }
       },
