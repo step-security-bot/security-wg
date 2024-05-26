@@ -1995,11 +1995,16 @@
             "score": 4.6,
             "date": "2024-03-25",
             "commit": "27fbbaf5f45c0f8b206589331a52a8f71e61d5ce"
+          },
+          {
+            "score": 4.7,
+            "date": "2024-04-08",
+            "commit": "4ddd2472a94b6153d7f298fc63fde04980903f66"
           }
         ],
         "current": {
-          "score": 4.7,
-          "date": "2024-04-08",
+          "score": 4.4,
+          "date": "2024-05-20",
           "commit": "4ddd2472a94b6153d7f298fc63fde04980903f66"
         }
       },
@@ -2652,12 +2657,17 @@
             "score": 8.9,
             "date": "2024-04-27T07:39:42Z",
             "commit": "24f7ee66f01a1398ad15895fe0609a7adc47153e"
+          },
+          {
+            "score": 7.9,
+            "date": "2024-05-17T05:56:39Z",
+            "commit": "0ca9c1e1faa8cac5ed9310dacbe2e9b5cfd4f6b1"
           }
         ],
         "current": {
-          "score": 7.9,
-          "date": "2024-05-17T05:56:39Z",
-          "commit": "0ca9c1e1faa8cac5ed9310dacbe2e9b5cfd4f6b1"
+          "score": 9,
+          "date": "2024-05-22T22:19:06Z",
+          "commit": "a4879b4663f1cbe190bcd6e62879ab4f994a0409"
         }
       },
       "official-images": {
@@ -3416,12 +3426,17 @@
             "score": 6.2,
             "date": "2024-03-11",
             "commit": "7e13b43da54dd4dbd4657d0c7f798eccb61d2f50"
+          },
+          {
+            "score": 6.6,
+            "date": "2024-04-01",
+            "commit": "daf8fa08402c8db9b656d84f35e5fa3090f11ec0"
           }
         ],
         "current": {
-          "score": 6.6,
-          "date": "2024-04-01",
-          "commit": "daf8fa08402c8db9b656d84f35e5fa3090f11ec0"
+          "score": 6.8,
+          "date": "2024-05-20",
+          "commit": "29fa534f5799f8749d82093f02c20fafb08f6529"
         }
       },
       "whatwg-stream": {
