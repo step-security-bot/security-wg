@@ -47,7 +47,8 @@
         "whatwg-stream",
         "corepack",
         "gyp-next",
-        "node-auto-test"
+        "node-auto-test",
+        "api-docs-tooling"
       ],
       "excluded": []
     }
