@@ -544,12 +544,17 @@
             "score": 6.9,
             "date": "2024-07-27T21:54:34Z",
             "commit": "20aff2b6ff2ab5525e6e523aba86ab622a9329d0"
+          },
+          {
+            "score": 6.8,
+            "date": "2024-08-10T23:28:17Z",
+            "commit": "90f257176c064796b0ed25504061c7c7b77b3b82"
           }
         ],
         "current": {
-          "score": 6.8,
-          "date": "2024-08-10T23:28:17Z",
-          "commit": "90f257176c064796b0ed25504061c7c7b77b3b82"
+          "score": 6.3,
+          "date": "2024-08-17T13:52:41Z",
+          "commit": "9e83853294321e792cafdcd8384f1bf4c95610c9"
         }
       },
       "diagnostics": {
@@ -3498,12 +3503,17 @@
             "score": 8.1,
             "date": "2024-06-11T07:24:41Z",
             "commit": "6055e856280e70b1c31281267f98e830a1412e62"
+          },
+          {
+            "score": 8,
+            "date": "2024-07-16T07:25:17Z",
+            "commit": "6055e856280e70b1c31281267f98e830a1412e62"
           }
         ],
         "current": {
-          "score": 8,
-          "date": "2024-07-16T07:25:17Z",
-          "commit": "6055e856280e70b1c31281267f98e830a1412e62"
+          "score": 8.4,
+          "date": "2024-08-13T07:25:00Z",
+          "commit": "f15c7d2030c18cfc3df1354035ea3bb2b4750bb9"
         }
       },
       "package-maintenance": {
@@ -4100,12 +4110,17 @@
             "score": 7.8,
             "date": "2024-08-03T21:48:23Z",
             "commit": "d7b07522be24af6b48d573efb06999c938e8c9a8"
+          },
+          {
+            "score": 6.9,
+            "date": "2024-08-08T10:08:40Z",
+            "commit": "fbad77a7aa5c6fe46ad850f05890a558307d9390"
           }
         ],
         "current": {
-          "score": 6.9,
-          "date": "2024-08-08T10:08:40Z",
-          "commit": "fbad77a7aa5c6fe46ad850f05890a558307d9390"
+          "score": 7.5,
+          "date": "2024-08-15T14:49:48Z",
+          "commit": "5b41597721187e0f631fc6ca1fb7241f4cd465d5"
         }
       }
     }
