@@ -3014,11 +3014,16 @@
             "score": 4.2,
             "date": "2023-10-02",
             "commit": "7ab3417749715bd6665eb840da54a5bea696ecc0"
+          },
+          {
+            "score": 4.4,
+            "date": "2024-10-28",
+            "commit": "eab9ef75103b4f2741f995d2eb69bb3e0f8ad135"
           }
         ],
         "current": {
-          "score": 4.4,
-          "date": "2024-10-28",
+          "score": 4.8,
+          "date": "2024-11-11",
           "commit": "eab9ef75103b4f2741f995d2eb69bb3e0f8ad135"
         }
       },
@@ -3113,11 +3118,16 @@
             "score": 4.9,
             "date": "2024-10-07",
             "commit": "91d60f11e1762b0f4f5c51bbd9886147355b952a"
+          },
+          {
+            "score": 5.4,
+            "date": "2024-10-21",
+            "commit": "356664d5a3e5a34e0f96cad4c777de67bb872a6e"
           }
         ],
         "current": {
-          "score": 5.4,
-          "date": "2024-10-21",
+          "score": 5.6,
+          "date": "2024-11-11",
           "commit": "356664d5a3e5a34e0f96cad4c777de67bb872a6e"
         }
       },
@@ -3963,11 +3973,16 @@
             "score": 8.5,
             "date": "2024-08-20T07:25:17Z",
             "commit": "15f89e1e5742e6906a39b2cd75f15e2410e8122d"
+          },
+          {
+            "score": 8.7,
+            "date": "2024-08-27T10:29:27Z",
+            "commit": "8371b40077c0177d743bb3dfed7e2b56cba18328"
           }
         ],
         "current": {
-          "score": 8.7,
-          "date": "2024-08-27T10:29:27Z",
+          "score": 8.6,
+          "date": "2024-11-12T07:26:19Z",
           "commit": "8371b40077c0177d743bb3dfed7e2b56cba18328"
         }
       },
@@ -4648,11 +4663,16 @@
             "score": 6.5,
             "date": "2024-10-28",
             "commit": "6eeddbae277693bc022e59e54649ec13eed478c7"
+          },
+          {
+            "score": 7.1,
+            "date": "2024-11-04",
+            "commit": "6eeddbae277693bc022e59e54649ec13eed478c7"
           }
         ],
         "current": {
-          "score": 7.1,
-          "date": "2024-11-04",
+          "score": 6.6,
+          "date": "2024-11-11",
           "commit": "6eeddbae277693bc022e59e54649ec13eed478c7"
         }
       },
