@@ -4422,12 +4422,17 @@
             "score": 8.1,
             "date": "2025-08-01T09:52:29Z",
             "commit": "431dfdc693df0a15f2d5a5a3933e421c8459a74d"
+          },
+          {
+            "score": 8.2,
+            "date": "2025-08-23T19:32:49Z",
+            "commit": "001caecf3d6d8e66de946df54eed4cb9321160b1"
           }
         ],
         "current": {
-          "score": 8.2,
-          "date": "2025-08-23T19:32:49Z",
-          "commit": "001caecf3d6d8e66de946df54eed4cb9321160b1"
+          "score": 8.3,
+          "date": "2025-09-06T16:45:57Z",
+          "commit": "51651a1b37510f39c51777b37245923ad52df190"
         }
       },
       "official-images": {
@@ -6508,12 +6513,17 @@
             "score": 7.6,
             "date": "2025-07-26T22:24:30Z",
             "commit": "69f2aa89d710575d783def24921c758502f8167e"
+          },
+          {
+            "score": 7.5,
+            "date": "2025-08-26T07:27:51Z",
+            "commit": "74cbb4801de8068e1908b718c95f139a3f95726a"
           }
         ],
         "current": {
-          "score": 7.5,
-          "date": "2025-08-26T07:27:51Z",
-          "commit": "74cbb4801de8068e1908b718c95f139a3f95726a"
+          "score": 7.6,
+          "date": "2025-09-05T07:39:17Z",
+          "commit": "478d9bfd069b871e22df8609ba0bb94fcd2b4ce8"
         }
       },
       "doc-kit": {
