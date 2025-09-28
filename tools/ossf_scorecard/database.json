@@ -899,12 +899,17 @@
             "score": 6.5,
             "date": "2025-09-14T00:40:32Z",
             "commit": "c8c6bfab23abfe874289d0d58d849a8617e044b3"
+          },
+          {
+            "score": 6.6,
+            "date": "2025-09-20T22:44:57Z",
+            "commit": "f6d6b911fa3deb74e59f3cd9a5bb8dfecceabec4"
           }
         ],
         "current": {
-          "score": 6.6,
-          "date": "2025-09-20T22:44:57Z",
-          "commit": "f6d6b911fa3deb74e59f3cd9a5bb8dfecceabec4"
+          "score": 6.3,
+          "date": "2025-09-27T19:18:38Z",
+          "commit": "cff138c6b16c6979629c27f774e044e791ac4e0e"
         }
       },
       "diagnostics": {
@@ -2010,12 +2015,17 @@
             "score": 6.9,
             "date": "2025-09-13T15:44:03Z",
             "commit": "8293d9c9266c0e2de8d6a915225b4a42c0657058"
+          },
+          {
+            "score": 6.6,
+            "date": "2025-09-17T12:43:23Z",
+            "commit": "74733fcc6385dc6ad7d4c5f15e53aa2b146d04ca"
           }
         ],
         "current": {
-          "score": 6.6,
-          "date": "2025-09-17T12:43:23Z",
-          "commit": "74733fcc6385dc6ad7d4c5f15e53aa2b146d04ca"
+          "score": 6.8,
+          "date": "2025-09-26T16:37:24Z",
+          "commit": "78c4bc12284c31432919a5a870f7028daf04a404"
         }
       },
       "core-validate-commit": {
@@ -6548,12 +6558,17 @@
             "score": 7.5,
             "date": "2025-08-26T07:27:51Z",
             "commit": "74cbb4801de8068e1908b718c95f139a3f95726a"
+          },
+          {
+            "score": 7.6,
+            "date": "2025-09-05T07:39:17Z",
+            "commit": "478d9bfd069b871e22df8609ba0bb94fcd2b4ce8"
           }
         ],
         "current": {
-          "score": 7.6,
-          "date": "2025-09-05T07:39:17Z",
-          "commit": "478d9bfd069b871e22df8609ba0bb94fcd2b4ce8"
+          "score": 8.5,
+          "date": "2025-09-24T20:27:57Z",
+          "commit": "1ca4b8093b7fc399b63368857543004862fc93e1"
         }
       },
       "doc-kit": {
