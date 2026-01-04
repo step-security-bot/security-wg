@@ -984,12 +984,17 @@
             "score": 6.2,
             "date": "2025-12-20T22:20:57Z",
             "commit": "ed6ec9626eddee3ad00edfea4b0535bb9ee2638d"
+          },
+          {
+            "score": 6,
+            "date": "2025-12-27T17:15:15Z",
+            "commit": "15bdf38fd8f32ff6bb6ee72cf7838712226178f6"
           }
         ],
         "current": {
-          "score": 6,
-          "date": "2025-12-27T17:15:15Z",
-          "commit": "15bdf38fd8f32ff6bb6ee72cf7838712226178f6"
+          "score": 6.4,
+          "date": "2026-01-03T22:39:47Z",
+          "commit": "282d30e526cb0c3ceb7e1720858f61bf6ba7d2cf"
         }
       },
       "diagnostics": {
@@ -3125,12 +3130,17 @@
             "score": 6,
             "date": "2025-07-21",
             "commit": "3fcf6ec5d53714dc242023757ca8927075c6aebb"
+          },
+          {
+            "score": 6.1,
+            "date": "2025-08-25",
+            "commit": "7cbf65e74db78d37f877729555b18ce5b9c2ccda"
           }
         ],
         "current": {
-          "score": 6.1,
-          "date": "2025-08-25",
-          "commit": "7cbf65e74db78d37f877729555b18ce5b9c2ccda"
+          "score": 6,
+          "date": "2025-12-29",
+          "commit": "fed345ff3e6808d057e371cc65d3e94a9722be21"
         }
       },
       "llnode": {
@@ -3297,11 +3307,16 @@
             "score": 7.7,
             "date": "2025-12-15T21:26:10Z",
             "commit": "f2b2be5713c2f7e034a5899604b959623b52c5c3"
+          },
+          {
+            "score": 7.8,
+            "date": "2025-12-22T21:25:57Z",
+            "commit": "f2b2be5713c2f7e034a5899604b959623b52c5c3"
           }
         ],
         "current": {
-          "score": 7.8,
-          "date": "2025-12-22T21:25:57Z",
+          "score": 7.7,
+          "date": "2025-12-29T21:26:10Z",
           "commit": "f2b2be5713c2f7e034a5899604b959623b52c5c3"
         }
       },
